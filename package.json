@@ -1,0 +1,15 @@
+{
+  "name": "gamified_learning_platform_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oesavo",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
